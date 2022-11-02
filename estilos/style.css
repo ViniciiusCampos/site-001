@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+header {
+background-color: aquamarine;
+}
+
+ul {
+    list-style-type: none;
+    
+}
+
+li {
+   margin: 10px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between
+    
+}
+
+.img-menu {
+    width: 43px;
+}
+
+main {
+    background: url(../imagens/fundo-site.webp);
+    height: 95vh;
+}
+
+p {
+    font-size: 40px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+
+footer {
+   background-color: #04517bc9;
+   border-top: 1px solid black;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+}
